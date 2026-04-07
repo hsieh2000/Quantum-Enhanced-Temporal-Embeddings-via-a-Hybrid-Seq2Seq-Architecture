@@ -1,0 +1,16 @@
+# Deep Learning
+torch
+
+# Quantum Computing
+pennylane
+
+# Machine Learning & Preprocessing
+scikit-learn
+
+# Data Handling & Visualization
+pandas
+matplotlib
+plotly
+
+# Utilities
+dill

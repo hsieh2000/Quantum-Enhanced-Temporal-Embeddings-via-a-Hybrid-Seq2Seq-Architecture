@@ -1,0 +1,6 @@
+,QLSTM_FreeRun,QLSTM_FreeRun,QLSTM_FreeRun,PCA2,PCA2,PCA2,Random2D,Random2D,Random2D,Shuffled2D,Shuffled2D,Shuffled2D
+,RBF-DivMom (excess),RBF-Graph (excess),S&P 500 (excess),RBF-DivMom (excess),RBF-Graph (excess),S&P 500 (excess),RBF-DivMom (excess),RBF-Graph (excess),S&P 500 (excess),RBF-DivMom (excess),RBF-Graph (excess),S&P 500 (excess)
+CAGR,-0.9995,-0.9995,-0.9996,-0.9995,-0.9996,-0.9996,-0.9995,-0.9996,-0.9996,-0.9995,-0.9995,-0.9996
+Vol,0.8979,0.8088,0.7821,0.8349,0.8832,0.7821,0.8354,0.9159,0.7821,0.8971,0.8088,0.7821
+Sharpe,-7.4333,-8.32,-8.7161,-8.0354,-7.6508,-8.7161,-8.0228,-7.4891,-8.7161,-7.4359,-8.32,-8.7161
+MaxDD,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0

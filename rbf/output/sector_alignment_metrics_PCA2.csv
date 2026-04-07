@@ -1,0 +1,4 @@
+,0
+NMI(latent_kmeans_vs_sector),0.24809295990446906
+ARI(latent_kmeans_vs_sector),0.09522220208198348
+num_sectors,12.0
